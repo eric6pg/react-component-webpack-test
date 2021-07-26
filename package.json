@@ -1,7 +1,7 @@
 {
   "name": "ui-lib",
   "version": "1.0.0",
-  "main": "dist/index.js",
+  "main": "dist/plugin.bundle.js",
   "license": "MIT",
   "scripts": {
     "build": "webpack",

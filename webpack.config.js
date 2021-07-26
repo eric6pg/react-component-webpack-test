@@ -5,7 +5,7 @@ module.exports = {
     mode: "production",
     output: {
         path: path.resolve(__dirname, "dist"),
-        filename: "index.js",
+        filename: "plugin.bundle.js",
         libraryTarget: "umd",
         library: "ui-lib"
     },
